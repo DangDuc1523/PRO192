@@ -1,3 +1,5 @@
+package WorkShop1;
+
 import java.util.Scanner;
 
 public class Part2 {
