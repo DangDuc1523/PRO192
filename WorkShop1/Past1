@@ -1,4 +1,4 @@
-package part1;
+package WorkShop1;
 
 import java.util.Scanner;
 public class Part1{
@@ -6,7 +6,7 @@ public class Part1{
     public static void main(String[]args) {
          int rows;
          int cols;
-         int matrix[][];6
+         int matrix[][];
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter number of rows: ");
         rows=sc.nextInt ();
